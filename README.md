@@ -1,2 +1,2 @@
-# Webpage Prototype Fund Open Hardware
+# Webpage Open Hardware Allianz
 ...
