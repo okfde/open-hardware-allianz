@@ -27,8 +27,8 @@ gems:
 # Site owner
 owner:
   name:
-  email: hardware@prototypefund.de
-  twitter: @oshw_ger
+  email: "hardware@prototypefund.de"
+  twitter: "@oshw_ger"
   google:
     ad-client:
     ad-slot:
