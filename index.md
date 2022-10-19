@@ -1,11 +1,7 @@
 ---
 layout: default
 permalink: /
-title: "Latest Posts"
+title: "Wir vereinigen Stakeholder im Bereich Open Hardware"
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+

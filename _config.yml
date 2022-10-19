@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Prototype<br>Fund<br>Hardware"
-description: "This is a description of my awesome site."
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: "Open<br>Hardware<br>Allianz"
+description: "Wir vereinigen Stakeholder im Bereich Open Hardware"
+logo: images/logo_oha.png
+teaser: images/logo_oha.png
 locale: en
-url: 
+url:
 feed:
   path: atom.xml
 
@@ -27,8 +27,8 @@ gems:
 # Site owner
 owner:
   name:
-  email:
-  twitter:
+  email: hardware@prototypefund.de
+  twitter: @oshw_ger
   google:
     ad-client:
     ad-slot:

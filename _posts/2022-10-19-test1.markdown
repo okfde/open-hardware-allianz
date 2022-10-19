@@ -1,0 +1,15 @@
+---
+layout: article
+title: test1
+modified: 2022-10-01
+categories: Hardware
+excerpt: Hier steht text
+tags: [Open Hardware]
+image:
+  feature:
+  teaser:
+  thumb:
+---
+
+Hier steht auch Text
+2022-10-19-test2.markdown

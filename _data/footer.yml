@@ -1,4 +1,6 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Kontakt
+  url: "mailto:hardware@prototypefund.de"
+- title: Impressum
+  url: "https://okfn.de/impressum/"
