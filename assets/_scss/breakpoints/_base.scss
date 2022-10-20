@@ -525,7 +525,7 @@ HEADER STYLES
 
         &.current{
           a{
-            color: $primary-color;
+            color: $secondary-color;
           }
         }
         &.current-featured{
@@ -568,7 +568,7 @@ HEADER STYLES
           }
 
           &:hover, &:focus{
-            color: $primary-color;
+            color: $secondary-color !important;
           }
         }
 
