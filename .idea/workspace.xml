@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="236dafc1-e976-4b98-94c5-27fb35a69118" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/49/b6972b759974a1f35a4e60faec7cf29653ba9c72dbc6a5424f0c6ffedd19e8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/64/891b2f1bf3719d7c1eb8401bb28ae788ccd51ea3445d44119b9cf5e16535ba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/68/9db02ba98fbb16f4ea5d4dc20f6a31880f56dcd9f1c35cfdc48a7a21765890" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/77/d7548e5ba4b157367eca6d5e57667bf7e3889e6dda7af4875d56a1009cf0f2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7f/4e40685e399711e530a7f5564f9f7fd855f5c09bae8e5963f1eb95eeac93a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/83/edb970a8dd5ca841afc85bf2f8a1de4b772e87b067c02819e66b5699392d36" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/8a/6778e4e4070c3577856aca786d181acb1d0f1e40f0d524d13908a02f15375e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/bd/007118eba218e3fada98cf3f474535f2708fe49912804f724a46ffd0494ac7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f4/a458a51ae8d1ebf56c23e37749ce91715720612d4cec0b676990759fce6970" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/fe/cb6b0d9f7313b31ce96a6d53f761f83c8f290b9bf0203f44e2b92a085040ca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_layout.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +94,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "/home/mavo/static_web/open-hardware-allianz/_posts"
+    "last_opened_file_path": "/home/mavo/static_web/open-hardware-allianz"
   }
 }]]></component>
   <component name="RecentsManager">
