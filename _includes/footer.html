@@ -25,6 +25,8 @@
 		{% for link in site.data.footer %}
       {% if link.url contains 'http' %}
         {% assign domain = '' %}
+        {% elsif link.url contains 'mailto' %}
+        {% assign domain = '' %}
         {% else %}
         {% assign domain = site.url %}
       {% endif %}
