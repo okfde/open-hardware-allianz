@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/oshw_page.iml" filepath="$PROJECT_DIR$/.idea/oshw_page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/open-hardware-allianz.iml" filepath="$PROJECT_DIR$/.idea/open-hardware-allianz.iml" />
     </modules>
   </component>
 </project>

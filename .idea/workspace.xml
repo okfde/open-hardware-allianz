@@ -1,204 +1,240 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="236dafc1-e976-4b98-94c5-27fb35a69118" name="Default" comment="">
+    <list default="true" id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/oshw_page.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/03/414a79631dfd519e6dcc1ac681873a0cafc74c91aa624b0367123c7ad0dca7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/footer.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/messages.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/advertising.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/breadcrumbs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/browser-upgrade.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/collection-pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/image-credit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/latest-posts-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/latest-posts-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation-sliding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/open-graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/page-author.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/page-meta.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-list-bullets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/scroll-cue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/share-this.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/article.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/media.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-10-19-test1.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-10-19-test2.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-10-19-test3.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_animations.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_bootstrap-grid24.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_breadcrumbs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_bullets.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_footnotes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_grid-settings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_menu-navicons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_notices.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_sliding-menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_syntax.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_tiles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_toc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/_bourbon-deprecated-upcoming.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/_bourbon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_directional-values.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_ellipsis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_font-family.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_hide-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_html5-input-types.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_prefixer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_retina-image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_timing-functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_triangle.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/addons/_word-wrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_animation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_appearance.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_backface-visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_background-image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_border-image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_box-sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_calc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_columns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_filter.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_flex-box.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_font-face.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_font-feature-settings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_hidpi-media-query.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_hyphens.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_image-rendering.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_keyframes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_linear-gradient.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_perspective.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_placeholder.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_radial-gradient.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_transform.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/css3/_user-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_assign.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_color-lightness.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_flex-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_golden-ratio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_grid-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_modular-scale.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_px-to-em.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_px-to-rem.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_strip-units.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_tint-shade.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_transition-property-name.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/functions/_unpack.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_convert-units.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_gradient-positions-parser.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_is-num.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_linear-angle-parser.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_linear-gradient-parser.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_linear-positions-parser.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_linear-side-corner-parser.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_radial-arg-parser.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_radial-gradient-parser.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_radial-positions-parser.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_render-gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_shape-size-stripper.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/helpers/_str-to-num.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/settings/_prefixer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/bourbon/settings/_px-to-em.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/_neat-helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/_neat.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/functions/_new-breakpoint.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/functions/_private.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_fill-parent.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_omega.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_outer-container.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_pad.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_private.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_shift.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_span-columns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_to-deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/grid/_visual-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/settings/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vendor/neat/settings/_visual-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_templates/archive" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_templates/media" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_templates/page" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_templates/post" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontello.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/OSEG_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bio-photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gig-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-bmbf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-okfn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo_oha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mp.org.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/skinny-bones-demo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/verbundow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/_main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.fitvids.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.visible.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/jquery-1.9.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>foo</find>
-      <find>karla</find>
-      <find>title</find>
-      <find>font</find>
-      <find>site-title</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/_sass/_base.scss" />
-        <option value="$PROJECT_DIR$/css/main.scss" />
-        <option value="$PROJECT_DIR$/_sass/_layout.scss" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/index.md" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/README.md" />
-      </list>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-3" />
-    <option name="y" value="31" />
-    <option name="width" value="1286" />
-    <option name="height" value="723" />
-  </component>
-  <component name="ProjectId" id="2G87vjKwHp6ValgT7idajpv3Ni8" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="oshw_page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oshw_page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oshw_page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oshw_page" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oshw_page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oshw_page" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oshw_page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oshw_page" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oshw_page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oshw_page" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="2GOhgMPZamRAFxXMoDSZckUM82a" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "/home/mavo/static_web/open-hardware-allianz"
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/posts" />
-      <recent name="$PROJECT_DIR$/_sass" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="236dafc1-e976-4b98-94c5-27fb35a69118" name="Default" comment="" />
-      <created>1571928238660</created>
+      <changelist id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="" />
+      <created>1666265653264</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571928238660</updated>
+      <updated>1666265653264</updated>
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24980047" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" />
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -210,114 +246,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/article.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_bootstrap-grid24.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="19" column="74" lean-forward="true" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
