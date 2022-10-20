@@ -70,6 +70,22 @@ HERO
   .logo {
     width: 30vw;
   }
+  &.home{
+      p{
+        height: 250px;
+        text-decoration: none;
+        color: $black;
+        font-family: $heading-font;
+        font-weight: 700;
+        line-height: 70px;
+        font-size: 6rem;
+        text-transform: uppercase;
+        text-align: left !important;
+
+      }
+
+    }
+
 }
 
 /*********************

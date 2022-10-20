@@ -64,18 +64,23 @@ HERO
   }
   &.home{
       p{
-        height: 250px;
+        height: 220px;
+        padding-top: 20px;
         text-decoration: none;
         color: $black;
         font-family: $heading-font;
         font-weight: 700;
-        line-height: 70px;
-        font-size: 6rem;
+        line-height: 50px;
+        font-size: 4rem;
         text-transform: uppercase;
         text-align: left !important;
 
       }
-
+      h1 {
+        text-align: left !important;
+        font-size: 2rem !important;
+        line-height: 1.1em !important;
+      }
     }
 }
 

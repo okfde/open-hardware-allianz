@@ -1,3 +1,25 @@
-.hero{
+.hero {
+  .logo {
+    width: 50vw;
+  }
+  &.home{
+      p{
+        height: 200px;
+        padding-top: 100px;
+        text-decoration: none;
+        color: $black;
+        font-family: $heading-font;
+        font-weight: 700;
+        line-height: 30px;
+        font-size: 2.5rem;
+        text-transform: uppercase;
+        text-align: left !important;
 
+      }
+      h1 {
+        text-align: left !important;
+        font-size: 1.5rem !important;
+        line-height: 1em !important;
+      }
+    }
 }

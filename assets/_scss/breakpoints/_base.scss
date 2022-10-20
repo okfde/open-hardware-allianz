@@ -646,13 +646,13 @@ body:not(.safari){
 
     }
     h1 {
-      position: absolute;
-      top: 80%;
-      left: 25%;
+      text-align: left !important;
+      font-size: 2rem;
+      line-height: 1.1em;
     }
     .branding{
       position: absolute;
-      top: 35%;
+      top: 50%;
       left: 50%;
       transform: translate(-50%,-50%);
       display: block;
