@@ -242,7 +242,7 @@ WRAPPER STYLES
     li{
       &::before{
         margin-right: 5px;
-        content:"\2022";
+        // content:"\2022";
         display: inline-block;
         font-family: $font-worksans;
         font-size: 1.6em;
@@ -1317,4 +1317,23 @@ FOOTER STYLES
     }
 
     position: absolute;
+}
+.home-aims-list {
+  padding-left: 20px;
+  padding-right: 20px;
+  hr {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    height: 2px;
+    color: black;
+    background-color: black;
+    border-width: 0px;
+    width: 80%;
+
+  }
+  ul{
+    text-align: left !important;
+    list-style: disc !important;
+  }
+
 }
