@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/header.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.liquid" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/_scss/breakpoints/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/_scss/breakpoints/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
