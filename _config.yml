@@ -76,22 +76,9 @@ defaults:
      path: "_project-edit"
    values:
      layout: add-project
- -
-   scope:
-     path: "_dw"
-   values:
-     layout: edusprint-post
- -
-   scope:
-     path: "_dw-edit"
-   values:
-     layout: add-tool
 
 
 repository: 'open-hardware-allianz'
-
-staticman:
-  branch: "master"
 
 title: "Open Hardware Allianz"
 description: "Das Netzwerk für offene Hardware in Deutschland"
