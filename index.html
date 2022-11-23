@@ -26,6 +26,25 @@ layout: default
       </div>
     </section>
 </div>
+<div class="row">
+  <section class="section member col-xs-24">
+    {% if site.data.member %}
+      <ul>
+      {% for member in site.data.member %}
+        {% if member.featured == true %}
 
+              <li>
+                {% if member.url %}<a href="{{member.url}}" target="_blank">{% endif %}
+                {% if member.logo %}<img class="img-responsive-height" src="{{member.logo}}"/>{% endif %}
+                {% if member.url %}</a>{% endif %}
+              </li>
+
+        {% endif %}
+      {% endfor %}
+      </ul>
+    {% endif %}
+  </section>
+</div>
 <!-- include mitmachen section -->
 {% include partials/sections/apply.liquid %}
+

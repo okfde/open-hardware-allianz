@@ -1333,3 +1333,36 @@ FOOTER STYLES
   }
 
 }
+.member {
+
+    margin: 30px 0 0 0;
+    display: block;
+    position: relative;
+    width: 100%;
+
+    ul {
+
+      display: inline-block;
+      float: none;
+      margin: 0;
+      text-align: center;
+      padding-left: 0px !important;
+      li {
+
+        display: inline-block;
+        height: 100px;
+        padding: 10px;
+
+        img{
+          vertical-align: baseline;
+        }
+        &:last-of-type{
+          
+        }
+
+
+      }
+    }
+
+
+}

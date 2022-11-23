@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_data/member.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ee/0251c2b56e774dff8ca70fe9767da0b537477c263f821410bb8d645c92cb8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/breakpoints/_768up.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/_scss/breakpoints/_768up.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/breakpoints/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/_scss/breakpoints/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/labs/alexa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/labs/edulabsBE.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/labs/edulabsBN.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/labs/edulabsK-BN.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/labs/edulabsKA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/labs/edulabsKA_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/labs/maria.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/1018-826-max.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/logo-okfn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/pfh_logo_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +41,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/mavo/static_web/edulabs"
+    "last_opened_file_path": "/home/mavo/static_web/open-hardware-allianz/_data"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_data" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
