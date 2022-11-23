@@ -24,27 +24,27 @@ layout: default
         <li>Dabei bündeln wir wirtschaftliche, wissenschaftliche und zivilgesellschaftliche Interessen, um eine bestmögliche und zukunftsfähige Verankerung von Open Hardware zu fördern.</li>
         </ul>
       </div>
-    </section>
-</div>
-<div class="row">
-  <section class="section member col-xs-24">
-    {% if site.data.member %}
-      <ul>
-      {% for member in site.data.member %}
-        {% if member.featured == true %}
+      <div class="member">
+        {% if site.data.member %}
+        <ul>
+          {% for member in site.data.member %}
+          {% if member.featured == true %}
 
-              <li>
-                {% if member.url %}<a href="{{member.url}}" target="_blank">{% endif %}
-                {% if member.logo %}<img class="img-responsive-height" src="{{member.logo}}"/>{% endif %}
-                {% if member.url %}</a>{% endif %}
-              </li>
+          <li>
+            {% if member.url %}<a href="{{member.url}}" target="_blank">{% endif %}
+            {% if member.logo %}<img class="img-responsive-height" src="{{member.logo}}"/>{% endif %}
+            {% if member.url %}</a>{% endif %}
+          </li>
 
+          {% endif %}
+          {% endfor %}
+        </ul>
         {% endif %}
-      {% endfor %}
-      </ul>
-    {% endif %}
-  </section>
+      </div>
+    </section>
+
 </div>
+
 <!-- include mitmachen section -->
 {% include partials/sections/apply.liquid %}
 
