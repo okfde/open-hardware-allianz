@@ -1347,12 +1347,13 @@ FOOTER STYLES
       margin: 0;
       text-align: center !important;
       padding-left: 0px !important;
+
       li {
 
         display: inline-block;
         height: 100px;
         padding: 10px;
-
+        margin-bottom: 0px !important ;
         img{
           vertical-align: baseline;
         }
