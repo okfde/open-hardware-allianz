@@ -10,4 +10,8 @@
   url: "https://hardware.prototypefund.de/"
   logo: "/assets/img/member/pfh_logo.png"
   featured: true
+- name: Open Toolchain Foundation
+  url: "https://opentoolchain.org/"
+  logo: "/assets/img/member/otfn.png"
+  featured: true
 
