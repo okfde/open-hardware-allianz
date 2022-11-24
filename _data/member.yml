@@ -14,4 +14,11 @@
   url: "https://opentoolchain.org/"
   logo: "/assets/img/member/otfn.png"
   featured: true
-
+- name: Verbund Offener Werkstätten
+  url: "https://www.offene-werkstaetten.org/"
+  logo: "/assets/img/member/vow.png"
+  featured: true
+- name: Verbund Offener Werkstätten
+  url: "https://globalinnovationgathering.org/"
+  logo: "/assets/img/member/gig.png"
+  featured: true
