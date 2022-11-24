@@ -18,7 +18,11 @@
   url: "https://www.offene-werkstaetten.org/"
   logo: "/assets/img/member/vow.png"
   featured: true
-- name: Verbund Offener Werkstätten
+- name: Global Innovation Gathering
   url: "https://globalinnovationgathering.org/"
   logo: "/assets/img/member/gig.png"
+  featured: true
+- name: FabLab München
+  url: "https://www.fablab-muenchen.de/"
+  logo: "/assets/img/member/fablabmuenchen.png"
   featured: true
