@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/member.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/member.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/fablabLogo farbig tansparent_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/fablabLogo farbig weiß_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/fablab_lolo_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/fablabcb_aufmacher2-1024x616.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/hackdash_22_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/hackdash_22_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/oer_card_twitter_img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/oer_filters_frontpage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/static/oha.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/static/oha.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
