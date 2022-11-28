@@ -27,7 +27,7 @@
     <script type="application/ld+json">
     {"name":"{{ page.titel}}","description":"{{ page.desc}}","author": "{{ page.author-name}}","@type":"OSHW","url":"{{site.url}}{{ page.url }}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"{{ site.logo}}"}},"image":null,"headline":"{{ page.titel }}","dateModified":"{{ page.date }}","datePublished":"{{ page.date}}","sameAs":"","mainEntityOfPage":{"@type":"WebPage","@id":"{{ page.url}}"},"@context":"http://schema.org"}</script>
     {% else %}
-    {% seo %}twitter:image
+    {% seo %}
     {% endif %}
 
 </head>
