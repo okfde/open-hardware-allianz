@@ -14,6 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+title: "Open Hardware Allianz"
+description: "Das Netzwerk für offene Hardware in Deutschland. Wir bündeln wirtschaftliche, wissenschaftliche und zivilgesellschaftliche Interessen, um eine bestmögliche und zukunftsfähige Verankerung von Open Hardware zu fördern."
+logo: "https://open-hardware-allianz.de/assets/img/static/logo_oshw.png"
+image: "https://open-hardware-allianz.de/assets/img/static/logo_oha.png"
+lang: "de_DE"
+email: hardware@prototypefund.de
+baseurl: "" # the subpath of your site, e.g. /blog
+permalink: /blog/:title
+url: "www.open-hardware-allianz.de"
+repository: 'open-hardware-allianz'
+twitter:
+  username: oshw_ger
+  card: summary
+
 # Build settings
 highlighter: rouge
 markdown: kramdown
@@ -74,19 +88,3 @@ defaults:
      path: "_project-edit"
    values:
      layout: add-project
-
-
-repository: 'open-hardware-allianz'
-
-title: "Open Hardware Allianz"
-description: "Das Netzwerk für offene Hardware in Deutschland. Wir bündeln wirtschaftliche, wissenschaftliche und zivilgesellschaftliche Interessen, um eine bestmögliche und zukunftsfähige Verankerung von Open Hardware zu fördern."
-logo: "https://open-hardware-allianz.de/assets/img/static/logo_oshw.png"
-image: "https://open-hardware-allianz.de/assets/img/static/logo_oha.png"
-lang: "de_DE"
-email: hardware@prototypefund.de
-baseurl: "" # the subpath of your site, e.g. /blog
-permalink: /blog/:title
-url: "www.open-hardware-allianz.de"
-twitter:
-  username: oshw_ger
-  card: summary
