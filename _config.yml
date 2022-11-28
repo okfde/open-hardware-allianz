@@ -77,8 +77,8 @@ repository: 'open-hardware-allianz'
 
 title: "Open Hardware Allianz"
 description: "Das Netzwerk für offene Hardware in Deutschland. Wir bündeln wirtschaftliche, wissenschaftliche und zivilgesellschaftliche Interessen, um eine bestmögliche und zukunftsfähige Verankerung von Open Hardware zu fördern."
-logo: "/assets/img/static/logo_oshw.png"
-image: "/assets/img/static/logo_oha.png"
+logo: "https://open-hardware-allianz.de/assets/img/static/logo_oshw.png"
+image: "https://open-hardware-allianz.de/assets/img/static/logo_oha.png"
 lang: "de_DE"
 email: hardware@prototypefund.de
 baseurl: "" # the subpath of your site, e.g. /blog
