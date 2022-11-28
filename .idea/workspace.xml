@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/_layouts/default.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.liquid" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
