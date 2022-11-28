@@ -13,11 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-email: hardware@prototypefund.de
-baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: oshw_ger
-permalink: /blog/:title
-url: "www.open-hardware-allianz.de"
 
 # Build settings
 highlighter: rouge
@@ -81,6 +76,14 @@ defaults:
 repository: 'open-hardware-allianz'
 
 title: "Open Hardware Allianz"
-description: "Das Netzwerk für offene Hardware in Deutschland"
+description: "Das Netzwerk für offene Hardware in Deutschland. Wir bündeln wirtschaftliche, wissenschaftliche und zivilgesellschaftliche Interessen, um eine bestmögliche und zukunftsfähige Verankerung von Open Hardware zu fördern."
 logo: "/assets/img/static/logo_oshw.png"
+image: "/assets/img/static/logo_oha.png"
 lang: "de_DE"
+email: hardware@prototypefund.de
+baseurl: "" # the subpath of your site, e.g. /blog
+permalink: /blog/:title
+url: "www.open-hardware-allianz.de"
+twitter:
+  username: oshw_ger
+  card: summary
