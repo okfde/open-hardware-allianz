@@ -26,3 +26,11 @@
   url: "https://www.fablab-muenchen.de/"
   logo: "/assets/img/member/fablabmuenchen.png"
   featured: true
+- name: Runde Tisch Reparatur
+  url: "https://runder-tisch-reparatur.de/"
+  logo: "/assets/img/member/RTR2.png"
+  featured: true
+- name: Runde Tisch Reparatur
+  url: "https://mntre.com/"
+  logo: "/assets/img/member/mnt.svg"
+  featured: true
