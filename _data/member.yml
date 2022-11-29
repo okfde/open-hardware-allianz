@@ -2,17 +2,33 @@
   url: "https://okfn.de/"
   logo: "/assets/img/member/logo-okfn.png"
   featured: true
-- name: Open Source Ecology Germany
-  url: "https://www.ose-germany.de/"
-  logo: "/assets/img/member/oseg.png"
-  featured: true
 - name: Prototype Fund Hardware
   url: "https://hardware.prototypefund.de/"
   logo: "/assets/img/member/pfh_logo.png"
   featured: true
+- name: Runde Tisch Reparatur
+  url: "https://runder-tisch-reparatur.de/"
+  logo: "/assets/img/member/RTR2.png"
+  featured: true
+- name: MNT Research
+  url: "https://mntre.com/"
+  logo: "/assets/img/member/mnt.svg"
+  featured: true
+- name: TU Berlin - Qualitäts Wissenschaft
+  url: "https://www.qw.tu-berlin.de/menue/qualitaetswissenschaft/"
+  logo: "/assets/img/member/tu_qw.png"
+  featured: true
 - name: Open Toolchain Foundation
   url: "https://opentoolchain.org/"
   logo: "/assets/img/member/otfn.png"
+  featured: true
+- name: Open Source Ecology Germany
+  url: "https://www.ose-germany.de/"
+  logo: "/assets/img/member/oseg.png"
+  featured: true
+- name: FabLab München
+  url: "https://www.fablab-muenchen.de/"
+  logo: "/assets/img/member/fablabmuenchen.png"
   featured: true
 - name: Verbund Offener Werkstätten
   url: "https://www.offene-werkstaetten.org/"
@@ -21,20 +37,4 @@
 - name: Global Innovation Gathering
   url: "https://globalinnovationgathering.org/"
   logo: "/assets/img/member/gig.png"
-  featured: true
-- name: FabLab München
-  url: "https://www.fablab-muenchen.de/"
-  logo: "/assets/img/member/fablabmuenchen.png"
-  featured: true
-- name: Runde Tisch Reparatur
-  url: "https://runder-tisch-reparatur.de/"
-  logo: "/assets/img/member/RTR2.png"
-  featured: true
-- name: Runde Tisch Reparatur
-  url: "https://mntre.com/"
-  logo: "/assets/img/member/mnt.svg"
-  featured: true
-- name: TU Berlin - Qualitäts Wissenschaft
-  url: "https://www.qw.tu-berlin.de/menue/qualitaetswissenschaft/"
-  logo: "/assets/img/member/tu_qw.png"
   featured: true
