@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/18/c9669bb8fce5188b641c14223f19cb25cfdec723137e6c11d754aab6c32476" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/da/ed047f2adddbeb774985d126aa30b655ebe669e5505aed3523a9d0af499a4e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/member.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/member.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/events.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/events.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/dw-tool.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/dw.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/edusprint-post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_offers/1_events.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_offers/2_inventar.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_offers/3_community.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_offers/4_workshops.markdown" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
