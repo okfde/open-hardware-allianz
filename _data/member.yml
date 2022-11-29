@@ -34,3 +34,7 @@
   url: "https://mntre.com/"
   logo: "/assets/img/member/mnt.svg"
   featured: true
+- name: TU Berlin - Qualitäts Wissenschaft
+  url: "https://www.qw.tu-berlin.de/menue/qualitaetswissenschaft/"
+  logo: "/assets/img/member/tu_qw.png"
+  featured: true
