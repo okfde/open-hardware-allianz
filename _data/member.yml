@@ -38,3 +38,7 @@
   url: "https://globalinnovationgathering.org/"
   logo: "/assets/img/member/gig.png"
   featured: true
+- name: trikka.house
+  url: "https://trikka.house/"
+  logo: "/assets/img/member/trikka.png"
+  featured: true
