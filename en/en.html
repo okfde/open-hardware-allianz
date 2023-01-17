@@ -1,0 +1,52 @@
+---
+layout: default
+title: The German Open Source Hardware Network
+permalink: /en/
+---
+<!-- hero -->
+
+<div class="row">
+    <section class="hero home col-xs-24">
+      <div class="branding">
+      <p class=" black">Open<br>Hardware<br>Alliance</p>
+      <h1 class="regular">The Network for Open Hardware in Germany</h1>
+      </div>
+    </section>
+</div>
+<!-- intro -->
+<div class="row">
+    <section class="section home-aims-list col-xs-24 ">
+      <hr>
+      <div class="content-wrap" id="aims">
+
+        <h2 class="section-headline">Our goals</h2>
+        <ul class="">
+        <li>We are a network of open hardware experts, institutional representatives, and policy makers working to promote open hardware.</li>
+        <li>The focus is on developing strategies and recommendations for action that show how the potential of open hardware can be fully unleashed.</li>
+        <li>In doing so, we combine economic, scientific and civil society interests to promote the best possible and sustainable anchoring of open hardware.</li>
+        </ul>
+      </div>
+      <div class="member">
+        {% if site.data.member %}
+        <ul>
+          {% for member in site.data.member %}
+          {% if member.featured == true %}
+
+          <li>
+            {% if member.url %}<a href="{{member.url}}" target="_blank">{% endif %}
+            {% if member.logo %}<img class="img-responsive-height" src="{{member.logo}}"/>{% endif %}
+            {% if member.url %}</a>{% endif %}
+          </li>
+
+          {% endif %}
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </div>
+    </section>
+
+</div>
+
+<!-- include mitmachen section -->
+{% include partials/sections/apply_en.liquid %}
+

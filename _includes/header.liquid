@@ -6,10 +6,31 @@
         <ul class="main-nav">
             {% assign base_dir = page.url | split:'/'  %}
             {% assign base_dir = base_dir  %}
-            <li {% if base_dir[1] == 'aims' %} class="current" {% endif %}><a href="#aims">Unsere Ziele</a></li>
-            <li {% if base_dir[1] == 'about' %} class="current" {% endif %}><a href="#apply">Mitmachen</a></li>
+            {% if (base_dir[1] == "en") %}
+              <li {% if base_dir[1] == 'aims' %} class="current" {% endif %}><a href="#aims">Our Goals</a></li>
+              <li {% if base_dir[1] == 'about' %} class="current" {% endif %}><a href="#apply">Participate</a></li>
+              <li class="search mobile">
+                  <a href="/">🇩🇪 DE</a>
+              </li>
+            {% else %}
+              {% assign base_dir = page.url | split:'/'  %}
+              {% assign base_dir = base_dir  %}
+              <li {% if base_dir[1] == 'aims' %} class="current" {% endif %}><a href="#aims">Unsere Ziele</a></li>
+              <li {% if base_dir[1] == 'about' %} class="current" {% endif %}><a href="#apply">Mitmachen</a></li>
+              <li class="search mobile">
+                  <a href="/en">🇺🇸 EN</a>
+              </li>
+            {% endif %}
         </ul>
-
+        {% if (base_dir[1] == "en") %}
+        <div class="search-icon desktop">
+            <a href="/" >🇩🇪 DE</a>
+        </div>
+        {% else %}
+        <div class="search-icon desktop">
+            <a href="/en" >🇺🇸 EN</a>
+        </div>
+        {% endif %}
         <div class="nav-toggle"><span></span></div>
     </div>
 </header>

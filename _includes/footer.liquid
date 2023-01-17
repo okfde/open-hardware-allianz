@@ -1,10 +1,19 @@
 <footer class="footer section white">
-    <h2>In Kontakt bleiben</h2>
+    {% if (base_dir[1] == "en") %}
+      <h2>Stay in contact</h2>
+    {% else %}
+      <h2>In Kontakt bleiben</h2>
+    {% endif %}
+
     <div class="social-nav">
         <!-- Newsletter -->
         <ul>
             <li><div class="btn-wrap">
-                <a class="edu-btn black" href="https://mailman.offene-werkstaetten.org/mailman/listinfo/hardware-offene-werkstaetten.org" target="_blank">Mailingliste</a>
+                {% if (base_dir[1] == "en") %}
+                   <a class="edu-btn black" href="https://mailman.offene-werkstaetten.org/mailman/listinfo/hardware-offene-werkstaetten.org" target="_blank">Mailinglist</a>
+                {% else %}
+                   <a class="edu-btn black" href="https://mailman.offene-werkstaetten.org/mailman/listinfo/hardware-offene-werkstaetten.org" target="_blank">Mailingliste</a>
+                {% endif %}
             </div></li>
         </ul>
         <br>
@@ -19,15 +28,29 @@
 
 
         <div class="foot-links">
-          <a class="imprint simple-btn" target="_blank" href="https://okfn.de/impressum/">Impressum</a>
+            {% if (base_dir[1] == "en") %}
+              <a class="imprint simple-btn" target="_blank" href="https://okfn.de/impressum/">Imprint</a>
+            {% else %}
+              <a class="imprint simple-btn" target="_blank" href="https://okfn.de/impressum/">Impressum</a>
+            {% endif %}
           <br>
         </div>
-        <div lass="cc-info">
-            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://raw.githubusercontent.com/fablabcb/fablabcb.github.io/master/assets/img/static/cc-by88x31.png" /></a><br/><p class="bold">Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0 Attribution lizenziert.</a>
-        </div>
-        <div class="gdpr-message col-lg-offset-6 col-md-offset-6 col-xs-24 col-md-12 col-lg-12">
-                    Wir nutzen aus Überzeugung keinerlei Cookies. Unsere Datenschutzerklärung findet ihr im <a  target="_blank" href="https://okfn.de/impressum/">Impressum</a>.</p>
-        </div>
+        {% if (base_dir[1] == "en") %}
+          <div lass="cc-info">
+              <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://raw.githubusercontent.com/fablabcb/fablabcb.github.io/master/assets/img/static/cc-by88x31.png" /></a><br/><p class="bold">Content on this website is licensed under <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0 Attribution unless otherwise noted.</a>
+          </div>
+          <div class="gdpr-message col-lg-offset-6 col-md-offset-6 col-xs-24 col-md-12 col-lg-12">
+                      We do not use any cookies out of conviction. You can find our privacy policy in the <a  target="_blank" href="https://okfn.de/impressum/">imprint</a>.</p>
+          </div>
+        {% else %}
+          <div lass="cc-info">
+              <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://raw.githubusercontent.com/fablabcb/fablabcb.github.io/master/assets/img/static/cc-by88x31.png" /></a><br/><p class="bold">Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0 Attribution lizenziert.</a>
+          </div>
+          <div class="gdpr-message col-lg-offset-6 col-md-offset-6 col-xs-24 col-md-12 col-lg-12">
+                      Wir nutzen aus Überzeugung keinerlei Cookies. Unsere Datenschutzerklärung findet ihr im <a  target="_blank" href="https://okfn.de/impressum/">Impressum</a>.</p>
+          </div>
+        {% endif %}
+
     </div>
 </footer>
 
