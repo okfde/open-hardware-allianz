@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/partials/sections/apply_en.liquid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.liquid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/en.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +24,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/mavo/static_web/open-hardware-allianz/_includes/partials/sections"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mavo/static_web/open-hardware-allianz/_includes/partials/sections&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_includes/partials/sections" />
