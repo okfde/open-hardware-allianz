@@ -23,9 +23,10 @@ $grey-light:        #f0f0f0;
 $grey-light-2:      #f6f6f6;
 $grey:              #bcbec0;
 $darkgreen:         #008080;
+$bluegrey:          #F4F3FD;
 
-$primary-color:     #aa0000;
-$secondary-color:   rgba(0,0,128,0.5);
+$primary-color:     #191086;
+$secondary-color:   $bluegrey;
 
 $alert-yellow:      #ff0;
 $alert-red:         #f00;
@@ -34,8 +35,8 @@ $alert-blue:        #004fcc;
 
 $background-color:  $white;
 $text-color:        $black;
-$link-color:        $black;
-$link-hover:        $black;
+$link-color:        $primary-color;
+$link-hover:        RGBA(25, 16, 134, 0.5);
 
 $link-background: rgba(0,0,128,0.2);
 $link-background-hover: rgba(0,0,128,0.5);

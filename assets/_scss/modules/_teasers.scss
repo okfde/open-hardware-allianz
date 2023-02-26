@@ -14,16 +14,19 @@ teasers
     @include teaser-shadow();
 
     .teaser-image{
-      width: 100%;
+      width: 20%;
+      margin-top: 25px;
+      margin-right: 20px;
     }
 
     .teaser-content{
 
       padding: 20px;
 
+      display: inline-block;
       .teaser-headline{
         word-break: break-word;
-        color: $primary-color;
+        color: $black;
       }
       .teaser-headline-oer{
         word-break: break-word;
