@@ -1167,10 +1167,10 @@ FOOTER STYLES
     }
 
     a, a:focus, a:visited{
-      background-color: $link-background;
+      //background-color: $link-background;
     }
     a:hover{
-      background-color: $link-background-hover;
+      //background-color: $link-background-hover;
     }
   }
   ul.nav-footer{
@@ -1282,6 +1282,14 @@ FOOTER STYLES
           max-width: 300px;
           margin-left: 0px;
           margin-bottom: 50px;
+          a{
+            color: $link-color !important;
+            background-color: none !important;
+
+          }
+          a:hover{
+            color: $link-hover !important;
+          }
         }
 
       }
@@ -1297,14 +1305,16 @@ FOOTER STYLES
     a{
       display: block;
       float: none;
+
     }
       a:hover{
-        color: $link-background-hover;
+        color: $link-hover;
       }
   }
   .gdpr-message{
+
         a:hover{
-          color: $link-background-hover;
+          color: $link-hover;
         }
   }
 }
