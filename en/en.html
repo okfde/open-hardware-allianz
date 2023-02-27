@@ -13,41 +13,39 @@ permalink: /en/
       </div>
     </section>
 </div>
-<!-- intro -->
-<div class="row">
-    <section class="section home-aims-list col-xs-24 blue">
-
-      <div class="content-wrap" id="aims">
-
-        <h2 class="section-headline">Our goals</h2>
-        <ul class="">
-        <li>We are a network of open hardware experts, institutional representatives, and policy makers working to promote open hardware.</li>
-        <li>The focus is on developing strategies and recommendations for action that show how the potential of open hardware can be fully unleashed.</li>
-        <li>In doing so, we combine economic, scientific and civil society interests to promote the best possible and sustainable anchoring of open hardware.</li>
-        </ul>
-      </div>
+<!-- aims -->
+<div class="row ">
+  <div class="row">
+    <section id="aims" class="section col-xs-24">
+      <h2 class="section-headline ">Ziele</h2>
+      {% include partials/offer-teasers.liquid %}
     </section>
-    <section class="section home-aims-list col-xs-24">
-      <div class="member">
-        {% if site.data.member %}
-        <ul>
-          {% for member in site.data.member %}
-          {% if member.featured == true %}
+  </div>
 
-          <li>
-            {% if member.url %}<a href="{{member.url}}" target="_blank">{% endif %}
-            {% if member.logo %}<img class="img-responsive-height" src="{{member.logo}}"/>{% endif %}
-            {% if member.url %}</a>{% endif %}
-          </li>
+  <!-- partner -->
+  <section class="section home-aims-list col-xs-24">
+    <img class="break" src="/assets/img/static/break.svg" />
+    <h2 class="section-headline ">Teil des Netzwerkes</h2>
+    <div class="member">
+      {% if site.data.member %}
+      <ul>
+        {% for member in site.data.member %}
+        {% if member.featured == true %}
 
-          {% endif %}
-          {% endfor %}
-        </ul>
+        <li>
+          {% if member.url %}<a href="{{member.url}}" target="_blank">{% endif %}
+          {% if member.logo %}<img class="img-responsive-height grayscale" src="{{member.logo}}"/>{% endif %}
+          {% if member.url %}</a>{% endif %}
+        </li>
+
         {% endif %}
-      </div>
-    </section>
-
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+  </section>
 </div>
+
 
 <!-- include mitmachen section -->
 {% include partials/sections/apply_en.liquid %}

@@ -1,4 +1,6 @@
 <footer class="footer section white">
+    {% assign base_dir = page.url | split:'/'  %}
+    {% assign base_dir = base_dir  %}
 <!--
     {% if (base_dir[1] == "en") %}
       <h2>Stay in contact</h2>
@@ -45,11 +47,17 @@
                       <img style="width: 15%" src="{{ site.baseurl }}/assets/img/member/gosh.png"/>
                   </a>
             </div>
-
     </div>
+
     <div class="sponsors-nav">
-
-
+        <div class="social-nav">
+            <br>
+            <ul class="icons-list">
+                <li><a class="icon black" href="mailto:hardware@prototypefund.de?Subject=[OHA Netzwerk]"><i class="icon-paper-plane-empty">&#xf1d9;</i></a></li>
+                <li><a class="icon black" href="https://twitter.com/oshw_ger" target="_blank" ><i class="icon-twitter">&#xf099;</i></a></li>
+                <li><a class="icon btn-github black" href="https://github.com/okfde/open-hardware-allianz" target="_blank" ><i class="icon-github">&#xf113;</i></a></li>
+            </ul>
+        </div>
         <div class="foot-links">
             {% if (base_dir[1] == "en") %}
               <a class="imprint simple-btn" target="_blank" href="https://okfn.de/impressum/">Imprint</a>

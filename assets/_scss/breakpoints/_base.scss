@@ -1202,7 +1202,7 @@ FOOTER STYLES
 
       li{
 
-        float: left;
+        float: center;
         display: block;
 
         .icon {
@@ -1210,7 +1210,7 @@ FOOTER STYLES
             min-width: 0;
             border: none;
             padding: 10px 10px;
-            text-align: center;
+            text-align: left;
 
                 &:hover{
                     color: $link-background-hover;
@@ -1218,7 +1218,7 @@ FOOTER STYLES
                 }
 
             i {
-                font-family: $font-lato;
+                font-family: 'fontello';
                 margin-right: 15px;
                 font-style: normal;
                 speak: none;
@@ -1302,9 +1302,11 @@ FOOTER STYLES
     display: table;
     width: 100%;
 
+
     a{
       display: block;
       float: none;
+      text-align: center !important;
 
     }
       a:hover{
@@ -1331,7 +1333,7 @@ FOOTER STYLES
 }
 .home-aims-list {
   background: rgba(0,0,0,0.0);
-  z-index: -20;
+
 }
 
 .member {
@@ -1403,4 +1405,12 @@ FOOTER STYLES
     }
 
 
+}
+
+.grayscale { filter: grayscale(100%);
+
+}
+
+.break {
+  margin-bottom: 30px;
 }

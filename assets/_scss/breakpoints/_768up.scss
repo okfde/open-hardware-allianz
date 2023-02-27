@@ -185,12 +185,13 @@ FOOTER STYLES
     float: left;
     width: 100%;
     padding: 0 50px;
-
+   
     ul {
 
       display: inline-block;
       float: left;
       margin: 0;
+
 
       li {
 
@@ -218,9 +219,10 @@ FOOTER STYLES
 
   .foot-links {
     a {
-      margin-left: 20px;
+
       display: inline-block;
-      float: right;
+      text-align: center;
+      margin-bottom: 10px;
     }
   }
 
