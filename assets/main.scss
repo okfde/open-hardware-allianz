@@ -8,11 +8,11 @@ $baseurl: "{{ site.baseurl }}";
 // normalize: http://necolas.github.io/normalize.css/
 @import "partials/normalize";
 
-// Sass variables
-@import "partials/variables";
-
 // typography
 @import "partials/typography";
+
+// Sass variables
+@import "partials/variables";
 
 // Sass functions
 @import "partials/functions";

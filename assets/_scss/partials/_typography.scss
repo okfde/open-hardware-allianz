@@ -9,7 +9,12 @@ here or just use this to establish your typographical grid. Or not.
 Do whatever you want to...GOSH!
 
 ******************************************************************/
-
+@font-face {
+      font-family: 'lato';
+      src: url($baseurl + '/assets/fonts/Lato-Regular.ttf');
+      font-weight: normal;
+      font-style: normal;
+}
 @font-face {
       font-family: 'fontello';
       src: url($baseurl + '/assets/fonts/fontello.eot?59799402');
@@ -88,6 +93,7 @@ I've edited it a bit, but it's a nice starting point.
 $font-karla:    'Karla', sans-serif;
 $font-worksans:    'Work Sans', sans-serif;
 $font-mono:    'liberation_monoregular', sans-serif;
+$font-lato:    'lato', sans-serif;
 
 /*
 some nice typographical defaults

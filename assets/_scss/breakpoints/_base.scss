@@ -29,7 +29,7 @@ html, body{
 
 body {
   height: 100%;
-  font-family: $font-karla;
+  font-family: $font-lato;
   font-size: 100%;
   line-height: 1.5;
   color: $text-color;
@@ -474,7 +474,7 @@ HEADER STYLES
       background-color: $bluegrey;
       margin-top: -6px;
       font-size: 1.5rem;
-      font-family: $font-mono;
+      font-family: $font-lato;
       position: absolute;
       width: 100%;
       padding: 0;
@@ -623,7 +623,7 @@ body:not(.safari){
   }
 
   &.home{
-    height: 80vh;
+    height: 100vh;
     background: url($baseurl + '/assets/img/static/home_background.svg') no-repeat;
     background-size: cover;
     background-position: center;
@@ -637,7 +637,7 @@ body:not(.safari){
       height: 250px;
       text-decoration: none;
       color: $black;
-      font-family: $heading-font;
+      font-family: $font-lato;
       font-weight: 700;
       line-height: 40px;
       font-size: 3rem;
@@ -659,7 +659,7 @@ body:not(.safari){
       text-align: center;
       background-color: none;
       padding-top: 10px;
-      padding-bottom: 10px;
+      padding-bottom: 200px;
     }
   }
 
@@ -1184,7 +1184,7 @@ FOOTER STYLES
     li{
 
       &.nav-footer-headline{
-        font-family: $font-karla;
+        font-family: $font-lato;
         font-weight: 700;
       }
 
@@ -1218,7 +1218,7 @@ FOOTER STYLES
                 }
 
             i {
-                font-family: 'fontello';
+                font-family: $font-lato;
                 margin-right: 15px;
                 font-style: normal;
                 speak: none;
@@ -1330,24 +1330,10 @@ FOOTER STYLES
     position: absolute;
 }
 .home-aims-list {
-  padding-left: 20px;
-  padding-right: 20px;
-  hr {
-    margin-top: 20px;
-    margin-bottom: 40px;
-    height: 2px;
-    color: black;
-    background-color: black;
-    border-width: 0px;
-    width: 85%;
-
-  }
-  ul{
-    text-align: left !important;
-    list-style: disc !important;
-  }
-
+  background: rgba(0,0,0,0.0);
+  z-index: -20;
 }
+
 .member {
 
     margin: 30px 0 0 0;
