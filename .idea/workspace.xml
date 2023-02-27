@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.liquid" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/_scss/breakpoints/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/_scss/breakpoints/_base.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
