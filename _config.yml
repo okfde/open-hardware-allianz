@@ -16,9 +16,9 @@
 
 title: "Open Hardware Allianz - das Netzwerk für offene Hardware in Deutschland"
 description: "Wir bündeln wirtschaftliche, wissenschaftliche und zivilgesellschaftliche Interessen, um eine bestmögliche und zukunftsfähige Verankerung von Open Hardware zu fördern."
-logo: /assets/img/static/logo_oshw.png
+logo: /assets/img/static/logo_social.png
 image:
-  path: /assets/img/static/logo_oha.png
+  path: /assets/img/static/logo_social.png
   alt: OHA Logo
 lang: "de_DE"
 email: hardware@prototypefund.de

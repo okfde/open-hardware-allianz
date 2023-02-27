@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.liquid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/_scss/breakpoints/_375up.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/_scss/breakpoints/_375up.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/_scss/breakpoints/_768up.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/_scss/breakpoints/_768up.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/_scss/breakpoints/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/_scss/breakpoints/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.liquid" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
