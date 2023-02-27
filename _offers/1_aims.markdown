@@ -1,6 +1,7 @@
 ---
 layout: lab
 title:  "Open Hardware fördern"
+title_en:  "Promote Open Hardware"
 events: "/partials/events.liquid"
 src: "/assets/img/static/aims_icon_1.svg"
 link: "/blog/#Events"

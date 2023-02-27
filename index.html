@@ -30,7 +30,6 @@ layout: default
         <ul>
           {% for member in site.data.member %}
           {% if member.featured == true %}
-
           <li>
             {% if member.url %}<a href="{{member.url}}" target="_blank">{% endif %}
             {% if member.logo %}<img class="img-responsive-height grayscale" src="{{member.logo}}"/>{% endif %}

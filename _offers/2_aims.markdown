@@ -1,6 +1,7 @@
 ---
 layout: lab
 title:  "Potenziale aufzeigen"
+title_en:  "Show potentials"
 events: "/partials/events.liquid"
 src: "/assets/img/static/aims_icon_2.svg"
 link: "/blog/#Events"

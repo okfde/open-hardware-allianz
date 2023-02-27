@@ -1,6 +1,7 @@
 ---
 layout: lab
 title:  "Zukunftsfähig verankern"
+title_en:  "Establish sustainably"
 events: "/partials/events.liquid"
 src: "/assets/img/static/aims_icon_3.svg"
 link: "/blog/#Events"

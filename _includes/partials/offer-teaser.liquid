@@ -9,11 +9,14 @@
                 </div>
             {% endif %}
             <div class="col-xs-24  col-md-18">
-                <h3 class="teaser-headline">{{ include.name }}</h3>
+
+
                 {% if (base_dir[1] == "en") %}
+                     <h3 class="teaser-headline">{{ include.name_en }}</h3>
                      <p class="teaser-copy">{{ include.copy_en }}{% if include.events %}{% include {{ include.events }} %}{% endif %}</p>
 
                 {% else %}
+                     <h3 class="teaser-headline">{{ include.name }}</h3>
                      <p class="teaser-copy">{{ include.copy }}{% if include.events %}{% include {{ include.events }} %}{% endif %}</p>
                 {% endif %}
 
