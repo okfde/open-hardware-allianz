@@ -25,19 +25,17 @@ permalink: /en/
   <!-- partner -->
   <section class="section home-aims-list col-xs-24">
     <img class="break" src="/assets/img/static/break.svg" />
-    <h2 class="section-headline ">Teil des Netzwerkes</h2>
+    <h2 class="section-headline ">Part of the network</h2>
     <div class="member">
       {% if site.data.member %}
       <ul>
         {% for member in site.data.member %}
         {% if member.featured == true %}
-
         <li>
           {% if member.url %}<a href="{{member.url}}" target="_blank">{% endif %}
           {% if member.logo %}<img class="img-responsive-height grayscale" src="{{member.logo}}"/>{% endif %}
           {% if member.url %}</a>{% endif %}
         </li>
-
         {% endif %}
         {% endfor %}
       </ul>

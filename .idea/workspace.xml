@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/partials/offer-teaser.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/partials/offer-teaser.liquid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/partials/offer-teasers.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/partials/offer-teasers.liquid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_offers/1_aims.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_offers/1_aims.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_offers/2_aims.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_offers/2_aims.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_offers/3_aims.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_offers/3_aims.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/en.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/en.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
