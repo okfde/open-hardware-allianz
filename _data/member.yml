@@ -42,3 +42,7 @@
   url: "https://trikka.house/"
   logo: "/assets/img/member/trikka.png"
   featured: true
+- name: OpenLandLAB
+  url: "https://www.openlandlab.org/"
+  logo: "/assets/img/member/oll.png"
+  featured: true
