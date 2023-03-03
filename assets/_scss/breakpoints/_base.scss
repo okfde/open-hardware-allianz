@@ -1335,7 +1335,19 @@ FOOTER STYLES
   background: rgba(0,0,0,0.0);
 
 }
-
+.memberlist {
+  .teaser {
+    .teaser-inner {
+      height: 330px;
+      .teaser-image{
+        width: 60% !important;
+        padding: 10px;
+        filter: grayscale(100%);
+        text-align: center;
+      }
+    }
+  }
+}
 .member {
 
     margin: 30px 0 0 0;
@@ -1413,4 +1425,5 @@ FOOTER STYLES
 
 .break {
   margin-bottom: 30px;
+
 }

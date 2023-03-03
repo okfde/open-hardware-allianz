@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<!-- member -->
+<div class="row ">
+    <section class="section col-xs-24 blue first">
+      <div class="content-wrap ">
+        <h2 class="section-headline">Teil des Netzwerkes</h2>
+      </div>
+
+        {% if site.data.member %}
+          <div class="isotope-wrap col-xs-22 col-xs-push-1 col-lg-push-3 no-padding memberlist">
+            <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
+            {% for member in site.data.member %}
+            {% if member.featured == true %}
+              {% include partials/blog/blog-teaser.liquid date=member.date list=1 featured=member.featured url=member.url filter=member.categories categories=categories src=member.logo headline=member.name copy=member.teaser %}
+
+            {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+
+    </section>
+</div>
+
+<!-- include mitmachen section -->
+{% include partials/sections/apply.liquid %}
+

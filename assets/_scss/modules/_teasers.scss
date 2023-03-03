@@ -268,8 +268,9 @@ teasers
 
   &.blog-teaser{
     .teaser-inner{
+
       &:hover {
-        background-color: $primary-color;
+        //background-color: $secondary-color;
         .teaser-date, .teaser-arrow:after {
           color: $white;
         }
