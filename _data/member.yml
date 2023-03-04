@@ -2,47 +2,79 @@
   url: "https://okfn.de/"
   logo: "/assets/img/member/logo-okfn.png"
   featured: true
+  teaser: "Ansprechpartner: Maximilian Voigt"
 - name: Prototype Fund Hardware
   url: "https://hardware.prototypefund.de/"
   logo: "/assets/img/member/pfh_logo.png"
   featured: true
+  teaser: "Ansprechpartner: Maximilian Voigt, Daniel Wessolek"
 - name: Runde Tisch Reparatur
   url: "https://runder-tisch-reparatur.de/"
   logo: "/assets/img/member/RTR2.png"
   featured: true
+  teaser: "Ansprechpartnerin: Katrin Meyer"
 - name: MNT Research
   url: "https://mntre.com/"
   logo: "/assets/img/member/mnt.svg"
   featured: true
+  teaser: "Ansprechpartner: Lukas Hartmann"
 - name: TU Berlin - Qualitäts Wissenschaft
   url: "https://www.qw.tu-berlin.de/menue/qualitaetswissenschaft/"
   logo: "/assets/img/member/tu_qw.png"
   featured: true
+  teaser: "Ansprechpartner: Robert Mies"
 - name: Open Toolchain Foundation
   url: "https://opentoolchain.org/"
   logo: "/assets/img/member/otfn.png"
   featured: true
+  teaser: "Ansprechpartner: Timm Wille"
 - name: Open Source Ecology Germany
   url: "https://www.ose-germany.de/"
   logo: "/assets/img/member/oseg.png"
   featured: true
+  teaser: "Ansprechpartner: Martin Häuer"
 - name: FabLab München
   url: "https://www.fablab-muenchen.de/"
   logo: "/assets/img/member/fablabmuenchen.png"
   featured: true
+  teaser: "Ansprechpartner: Andreas Kahler"
 - name: Verbund Offener Werkstätten
   url: "https://www.offene-werkstaetten.org/"
   logo: "/assets/img/member/vow.png"
   featured: true
+  teaser: "Ansprechpartner: Maximilian Voigt"
 - name: Global Innovation Gathering
   url: "https://globalinnovationgathering.org/"
   logo: "/assets/img/member/gig.png"
   featured: true
+  teaser: "Ansprechpartnerinnen: Sandra Mamitzsch, Geraldine de Bastion"
+- name: Open Source Imaging
+  url: "https://www.opensourceimaging.org/"
+  logo: "/assets/img/member/osi.jpg"
+  featured: true
+  teaser: "Ansprechpartner: Lukas Winter"
 - name: trikka.house
   url: "https://trikka.house/"
   logo: "/assets/img/member/trikka.png"
   featured: true
+  teaser: "Ansprechpartner: Lars Zimmermann"
 - name: OpenLandLAB
   url: "https://www.openlandlab.org/"
   logo: "/assets/img/member/oll.png"
   featured: true
+  teaser: "Ansprechpartner: Leopold Zyka"
+- name: GIVE Forschungsgesellschaft - Labor für Globale Dörfer
+  url: "http://www.dorfwiki.org/wiki.cgi?GIVE"
+  logo: "/assets/img/member/give.gif"
+  featured: true
+  teaser: "Ansprechpartner: Franz Nahrada"
+- name: Open Hardware Makers
+  url: "https://openhardware.space/"
+  logo: "/assets/img/member/ohm.svg"
+  featured: true
+  teaser: "Ansprechpartner: Alexander Kutschera"
+- name: Fablab Oberland
+  url: "https://oberlab.de/"
+  logo: "/assets/img/member/oberlab.png"
+  featured: true
+  teaser: "Ansprechpartner: Alexander Kutschera"

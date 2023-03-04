@@ -1338,9 +1338,10 @@ FOOTER STYLES
 .memberlist {
   .teaser {
     .teaser-inner {
-      height: 330px;
+      height: 350px;
       .teaser-image{
-        width: 60% !important;
+        width: 50% !important;
+        max-width: 230px;
         padding: 10px;
         filter: grayscale(100%);
         text-align: center;
