@@ -1202,9 +1202,9 @@ FOOTER STYLES
 
       li{
 
-        float: center;
-        display: block;
 
+        float: left;
+        display: inline-block;
         .icon {
             font-size: 1.5rem;
             min-width: 0;
@@ -1392,7 +1392,10 @@ FOOTER STYLES
     display: block;
     position: relative;
     width: 100%;
+    img {
+      max-height: 100px;
 
+    }
     ul {
 
       display: inline-block;
