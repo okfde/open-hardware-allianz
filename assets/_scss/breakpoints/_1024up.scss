@@ -322,3 +322,19 @@ contentpage elements
 .caption{
   font-size: 1rem;
 }
+
+.memberlist {
+  .teaser {
+    .teaser-inner {
+      height: 380px;
+      .teaser-image{
+        width: 50% !important;
+        max-width: 230px;
+        max-hight: 200px;
+        padding: 10px;
+        filter: grayscale(100%);
+        text-align: center;
+      }
+    }
+  }
+}
