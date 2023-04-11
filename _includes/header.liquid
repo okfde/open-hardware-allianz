@@ -7,7 +7,7 @@
             {% assign base_dir = page.url | split:'/'  %}
             {% assign base_dir = base_dir  %}
             {% if (base_dir[1] == "en") %}
-              <li {% if base_dir[1] == 'aims' %} class="current" {% endif %}><a href="#aims">Our Goals</a></li>
+              <li {% if base_dir[1] == 'aims' %} class="current" {% endif %}><a href="../#aims">Our Goals</a></li>
               <li {% if base_dir[1] == 'about' %} class="current" {% endif %}><a href="#apply">Participate</a></li>
               <li >
                   <a href="/">DE</a>
@@ -15,8 +15,9 @@
             {% else %}
               {% assign base_dir = page.url | split:'/'  %}
               {% assign base_dir = base_dir  %}
-              <li {% if base_dir[1] == 'aims' %} class="current" {% endif %}><a href="#aims">Unsere Ziele</a></li>
+              <li {% if base_dir[1] == 'aims' %} class="current" {% endif %}><a href="../#aims">Unsere Ziele</a></li>
               <li {% if base_dir[1] == 'about' %} class="current" {% endif %}><a href="#apply">Mitmachen</a></li>
+              <li {% if base_dir[1] == 'publikationen' %} class="current" {% endif %}><a href="/publikationen">Publikationen</a></li>
               <li >
                   <a href="/en">EN</a>
               </li>

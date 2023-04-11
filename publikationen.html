@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<!-- member -->
+<div class="row ">
+    <section class="section col-xs-24 blue first">
+      <div class="content-wrap ">
+        <h2 class="section-headline">Publikationen</h2>
+        <p>Hier veröffentlichen wir alle Stellungnahmen und Publikationen der Open Hardware Allianz.</p>
+      </div>
+
+        {% if site.data.publications %}
+          <div class="isotope-wrap col-xs-22 col-xs-push-1 no-padding memberlist">
+            <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
+            {% for publication in site.data.publications %}
+            {% if publication.featured == true %}
+              {% include partials/blog/blog-teaser.liquid date=publication.date list=1 featured=publication.featured url=publication.url filter=publication.categories categories=categories src=publication.logo headline=publication.name copy=publication.teaser %}
+
+            {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+
+    </section>
+</div>
+
+<!-- include mitmachen section -->
+{% include partials/sections/apply.liquid %}
+

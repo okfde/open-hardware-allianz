@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publikationen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.liquid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/_scss/breakpoints/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/_scss/breakpoints/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/member/gosh.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/member/gosh.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/member/oshwa.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/member/oshwa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/member.html" beforeDir="false" afterPath="$PROJECT_DIR$/member.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/events.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.liquid" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +27,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/mavo/static_web/okfn.de&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/mavo/static_web/open-hardware-allianz/_data"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_data" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_includes/partials/sections" />
-      <recent name="$PROJECT_DIR$/_data" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

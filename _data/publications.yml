@@ -1,0 +1,8 @@
+- name: Unboxing Blackboxes
+  url: "/assets/files/FOH23_Publikation_2023_WEB.pdf"
+  featured: true
+  teaser: "Mit Open Hardware & Zivilgesellschaft in eine nachhaltige Zukunft"
+- name: "Stellungnahme zur 'Zukunftsstrategie Forschung und Innovation'"
+  url: "/assets/files/FOH23_Zweiseite_Zukunftsstrategie_OSHW.pdf"
+  featured: true
+  teaser: "Offene Hardware in die Wissenschaft"
