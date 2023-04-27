@@ -78,3 +78,18 @@
   logo: "/assets/img/member/oberlab.png"
   featured: true
   teaser: "Ansprechpartner: Alexander Kutschera"
+- name: Hamburger Institut für Wertschöpfungssystematik und Wissensmanagement
+  url: "https://www.hiww.de/"
+  logo: "/assets/img/member/hiww.png"
+  featured: true
+  teaser: "Manuel Moritz"
+- name: New Production Institute
+  url: "https://newproductioninstitute.de/"
+  logo: "/assets/img/member/npi.png"
+  featured: true
+  teaser: "Manuel Moritz"
+- name: Fab City Hamburg
+  url: "ttps://www.fabcity.hamburg/"
+  logo: "/assets/img/member/Fab_City_Hamburg_4x.png"
+  featured: true
+  teaser: "Manuel Moritz"
