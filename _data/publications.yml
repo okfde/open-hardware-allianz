@@ -1,4 +1,4 @@
-- name: Unboxing Blackboxes
+- name: "Unboxing Blackboxes"
   url: "/assets/files/FOH23_Publikation_2023_WEB.pdf"
   featured: true
   teaser: "Mit Open Hardware & Zivilgesellschaft in eine nachhaltige Zukunft"
@@ -6,3 +6,7 @@
   url: "/assets/files/FOH23_Zweiseite_Zukunftsstrategie_OSHW.pdf"
   featured: true
   teaser: "Offene Hardware in die Wissenschaft"
+- name: "Mehr Gestaltungswillen für die Kreislauf&shy;wirtschafts&shy;strategie"
+  url: "/assets/files/FOH23_Stellungnahme_NKWS.pdf"
+  featured: true
+  teaser: "Offene Kreisläufe statt Müllverwertungsstrategie"
