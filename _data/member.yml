@@ -89,7 +89,12 @@
   featured: true
   teaser: "Manuel Moritz"
 - name: Fab City Hamburg
-  url: "ttps://www.fabcity.hamburg/"
+  url: "https://www.fabcity.hamburg/"
   logo: "/assets/img/member/Fab_City_Hamburg_4x.png"
   featured: true
   teaser: "Manuel Moritz"
+- name: OPNTEC
+  url: "https://opntec.com/"
+  logo: "/assets/img/member/OPNTEC.png"
+  featured: true
+  teaser: "Mario Behling"
