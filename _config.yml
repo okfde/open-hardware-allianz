@@ -24,7 +24,7 @@ lang: "de_DE"
 email: hardware@prototypefund.de
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /blog/:title
-url: "www.open-hardware-allianz.de"
+url: "https://open-hardware-allianz.de"
 repository: 'open-hardware-allianz'
 twitter:
   username: oshw_ger
