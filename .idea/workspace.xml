@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="28d2188f-d4b5-4f96-9ac2-af6cdb51cc8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontello.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontello.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontello.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontello.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontello.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontello.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontello.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontello.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontello.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontello.woff2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,21 +24,21 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2GOhgMPZamRAFxXMoDSZckUM82a" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/mavo/static_web/open-hardware-allianz"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mavo/static_web/open-hardware-allianz&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_data" />
