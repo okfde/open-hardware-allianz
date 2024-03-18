@@ -1,0 +1,28 @@
+- name: "Could your business grow by going open source?"
+  url: "https://remodel.dk/"
+  featured: true
+  teaser: "REMODEL is a free toolkit that helps you explore and develop new business models for physical products – based on open source principles."
+- name: "Open Catalogue of Business Models"
+  url: "https://zenodo.org/records/8268047"
+  featured: true
+  teaser: "This Open Catalogue of Business Models has been developed by the MAKE project to contribute to the financial sustainability of makerspaces and support the creation of a decentralized production ecosystem."
+- name: "Was ist Open Circular Design?"
+  url: "https://mifactori.de/was-ist-open-circular-design/"
+  featured: true
+  teaser: "Ein Aufsatz zur Frage des Titels."
+- name: "Open Source Hardware and Open Design"
+  url: "https://publication2023.bits-und-baeume.org/transformative-change/open-source-hardware-and-open-design/"
+  featured: true
+  teaser: "This article deals with the question of the extent to which open source hardware is an enabler of a sustainable circular economy."
+- name: "Open Source Hardware Seminar"
+  url: "https://www.tu.berlin/qw/studium-lehre/lehrveranstaltungen/oshs-open-source-hardware-seminar"
+  featured: true
+  teaser: "In diesem Seminar wird vorgestellt, wie offene Hardware die Art und Weise verändert, wie wir über Wissenschaft und Technologie in Richtung eines humanzentrierteren und kollaborativen Paradigmas denken. "
+- name: "Openness Makes The World Go Round"
+  url: "https://opencircularity.info/hbksaar-3/"
+  featured: true
+  teaser: "Dokumentation & Slides des Atelierprojektes „Openness Makes The World Go Round“ an der Hochschule der bildenden Künste Saarbrücken (HBKsaar) von Gastprof. Lars Zimmermann, Sommersemester 2019."
+- name: "Curriculum OSH Academy"
+  url: "https://din.one/display/OSH/Curriculum+OSH+Academy"
+  featured: true
+  teaser: "...?"
