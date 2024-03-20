@@ -22,7 +22,7 @@
   url: "https://opencircularity.info/hbksaar-3/"
   featured: true
   teaser: "Dokumentation & Slides des Atelierprojektes „Openness Makes The World Go Round“ an der Hochschule der bildenden Künste Saarbrücken (HBKsaar) von Gastprof. Lars Zimmermann, Sommersemester 2019."
-  - name: "Open Hardware Design Guide"
+- name: "Open Hardware Design Guide"
   url: "https://hardware.prototypefund.de/open-hardware-design-guide/"
   featured: true
   teaser: "Open Hardware ist vor allem eine gute Dokumentation. Doch wie sieht die aus? Auf diese Frage wird hier eingegangen."
