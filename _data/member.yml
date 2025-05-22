@@ -53,9 +53,9 @@
   logo: "/assets/img/member/osi.jpg"
   featured: true
   teaser: "Ansprechpartner: Lukas Winter"
-- name: trikka.house
-  url: "https://trikka.house/"
-  logo: "/assets/img/member/trikka.png"
+- name: ikego
+  url: "https://ikego.world/"
+  logo: "/assets/img/member/ikego-logo-test-g3702.png"
   featured: true
   teaser: "Ansprechpartner: Lars Zimmermann"
 - name: OpenLandLAB
