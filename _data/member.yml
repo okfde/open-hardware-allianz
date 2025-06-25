@@ -33,6 +33,11 @@
   logo: "/assets/img/member/oseg.png"
   featured: true
   teaser: "Ansprechpartner: Martin Häuer"
+- name: OCDCpro
+  url: "https://ocdcpro.de/"
+  logo: "/assets/img/member/ocdc.png"
+  featured: true
+  teaser: "Ansprechpartner: Johanna T. Wallenborn"
 - name: FabLab München
   url: "https://www.fablab-muenchen.de/"
   logo: "/assets/img/member/fablabmuenchen.png"
